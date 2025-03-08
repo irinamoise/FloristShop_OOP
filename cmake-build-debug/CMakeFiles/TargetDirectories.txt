@@ -1,3 +1,0 @@
-C:/Users/IRINA/CLionProjects/Colocviu_POO/Proiect3_OOP/cmake-build-debug/CMakeFiles/Proiect3_OOP.dir
-C:/Users/IRINA/CLionProjects/Colocviu_POO/Proiect3_OOP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/IRINA/CLionProjects/Colocviu_POO/Proiect3_OOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
